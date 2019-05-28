@@ -1,0 +1,11 @@
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.deps.json
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.json
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.runtimeconfig.dev.json
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/bin/Debug/netcoreapp2.2/randomNumbers.pdb
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csprojAssemblyReference.cache
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.csproj.CoreCompileInputs.cache
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfoInputs.cache
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.AssemblyInfo.cs
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.dll
+/Users/sambritt/workspace/csharp/exercises/lists/randomNumbers/obj/Debug/netcoreapp2.2/randomNumbers.pdb
